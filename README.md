@@ -1,16 +1,14 @@
-## Hi there 👋
+### bem vindo ao meu perfil 💙
 
-<!--
-**belbea/Belbea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Izabel
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https:www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+0000112463292xsp@al.educacao.sp.gov.br
+
+!.[_].(
+https://media1.tenor.com/m/lJV_YXWaw9IAAAAC/my-little-pony-group-hug.gif)
