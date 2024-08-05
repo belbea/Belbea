@@ -10,5 +10,4 @@ Meu nome é Maria Izabel
 
 0000112463292xsp@al.educacao.sp.gov.br
 
-!.[_].(
-https://media1.tenor.com/m/lJV_YXWaw9IAAAAC/my-little-pony-group-hug.gif)
+![_](https://media1.tenor.com/m/lJV_YXWaw9IAAAAC/my-little-pony-group-hug.gif)
